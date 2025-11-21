@@ -3,13 +3,13 @@
   "name": "袁子浩",
   "greetingText": "很庆幸能在最美丽的年华遇见最美丽的你",
   "wishText": "朱颜长似，头上花枝，岁岁年年。愿君青丝不老，岁岁皆欢。",
-  "imagePath": "img/lydia2.png"
+  "imagePath": "img/lydia2.png",
   "text1": "今天是你的生日啊!!! :D",
   "textInChatBox": "非常非常非常诚挚的祝你生日快乐！！！很多很多的快乐……",
   "sendButtonLabel": "发送",
   "text2": "谁叫你是202寝室的一员呢",
   "text3": "我在这里祝你生日快乐",
-  "text4": "我再说一遍可以吗？",
+  "text4": "我想再说一遍可以吗？",
   "text4Adjective": "生日快乐",
   "text5Entry": "因为，",
   "text5Content": "我只能用开源网页了😅",
@@ -23,7 +23,7 @@
   "music": "./music/bgMusic.mp3",
   "fonts": [
     {
-      "name": "Ma Shan Zheng",
+      "name": "周纳容",
       "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
     }
   ]
